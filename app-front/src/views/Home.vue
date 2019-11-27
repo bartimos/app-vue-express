@@ -25,11 +25,11 @@ export default {
       // }).catch(function (error) { 
       //   console.log(error); 
       // })
-      this.$ajax.get('/users').then((response)=>{
-        console.log(response)
-      }).catch((response)=>{
-        console.log(response);
-      })
+      // this.$ajax.get('/users').then((response)=>{
+      //   console.log(response)
+      // }).catch((response)=>{
+      //   console.log(response);
+      // })
       
     }
   },
